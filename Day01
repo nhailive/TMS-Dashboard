@@ -1,1 +1,5 @@
+let age="30"
+const="55"
+let name="Bajrang"
 
+consol.log(let,const)
